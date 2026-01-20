@@ -37,7 +37,7 @@ import {
   EyeInvisibleOutlined,
   CheckCircleOutlined
 } from '@ant-design/icons';
-import APIKeysManager from './developer/apikeysManager';
+import APIKeysManager from './developer/ApikeysManager';
 import WebhooksManager from './developer/WebhooksManager';
 import IPWhitelistManager from './developer/IPWhitelistManager';
 
