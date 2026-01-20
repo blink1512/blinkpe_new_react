@@ -31,3 +31,13 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Yarn (if switching to npm)
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+yarn.lock
